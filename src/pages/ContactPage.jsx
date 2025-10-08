@@ -47,7 +47,7 @@ export const ContactPage = () => (
         <Reveal>
           <div className="h-96 lg:h-full w-full rounded-lg overflow-hidden shadow-lg border border-gray-200 dark:border-gray-700">
             <iframe
-              src="https://maps.google.com/maps?q=Hotel%20Apple%20Rosa%20Goa&t=k&z=19&ie=UTF8&iwloc=&output=embed"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3851.52042229249!2d73.97150137583626!3d15.267868884904245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbfb3d99148bbef%3A0x78bd458439011975!2sHotel%20Apple%20Rosa%20Restaurant!5e0!3m2!1sen!2sin!4v1759853140026"
               width="100%"
               height="100%"
               style={{ border: 0 }}
